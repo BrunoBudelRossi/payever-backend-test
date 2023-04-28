@@ -1,0 +1,8 @@
+PORT=3000
+MONGODB_URL=mongodb://localhost/users
+FAKE_DB_URL=https://reqres.in/api
+RABBITMQ_URL=amqp://admin:admin@localhost:5672
+AUTH_USER_EMAIL=
+AUTH_USER_PASSWORD=
+EMAIL_TO=
+EMAIL_FROM=
